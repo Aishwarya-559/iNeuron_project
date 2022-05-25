@@ -24,6 +24,7 @@ Data is collected from kaggle site. All the required tasks to prepare the data f
 https://premium-predictor.herokuapp.com/
 
 # WEB INTERFACE :
+![Images](Images/Web 1.png)
 
 # LIBRARIES USED :
 1) Pandas
