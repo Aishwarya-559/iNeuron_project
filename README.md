@@ -24,8 +24,9 @@ Data is collected from kaggle site. All the required tasks to prepare the data f
 https://premium-predictor.herokuapp.com/
 
 # WEB INTERFACE :
-![Images](Images/Web 1.png)
-
+![alt tag](https://github.com/AishwaryaMate99/iNeuron_internship/blob/main/Images/Web%202.png)
+##### Prediction:
+![alt tag](https://github.com/AishwaryaMate99/iNeuron_internship/blob/main/Images/Web%201.png)
 # LIBRARIES USED :
 1) Pandas
 2) Numpy
